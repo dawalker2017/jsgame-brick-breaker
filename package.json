@@ -1,7 +1,7 @@
 {
-  "name": "wip-javascript-practice-001",
+  "name": "wip-jsgame-brickbreaker",
   "version": "1.0.0",
-  "description": "This project serves as practice. I seek to build my foundation knowledge of JavaScript.",
+  "description": "**project is currently a work-in-progress**\n\nThis project serves as a practice to build my knowledge of JavaScript. It is a small, 2d game where the object is simple: break the remaining bricks.",
   "main": "index.html",
   "scripts": {
     "start": "parcel index.html --open",
