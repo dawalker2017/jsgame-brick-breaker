@@ -4,6 +4,7 @@
 <hr/>
 
 **_[This project is a current work-in-progress]_**
+
 This game serves as a practice to build my knowledge of JavaScript. 
 It is a small, 2d game where the object is simple: break the remaining bricks.
 
